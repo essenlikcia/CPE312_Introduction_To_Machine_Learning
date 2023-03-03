@@ -1,1 +1,3 @@
 # CPE312_Introduction_To_Machine_Learning
+
+CPE312_Introduction_To_Machine_Learning Weekly projects.
